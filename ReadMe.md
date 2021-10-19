@@ -4,8 +4,8 @@
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)-->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Javascript developer
-- 🌐 Worked before as an Customer Service  at OOREDOO Tunisia.
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web developer
+- 🌐 Worked before as a Customer Service at OOREDOO Tunisia.
 
 <!--## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝙳𝚛𝚁𝚊𝚌𝚔𝚎𝚝](https://github.com/Raymo111/drracket-customization) 𝚊𝚗𝚍 [**𝚎𝚖𝚘𝚓𝚒**](https://github.com/Raymo111/emoji)
@@ -31,14 +31,14 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Elyes on LinkedIn" title="Follow Elyes on LinkedIn"/>](https://www.linkedin.com/in/mohamed-elyes-ben-khoud-738321216/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Elyes on Instagram" title="Follow Elyes on Instagram"/>](https://www.instagram.com/elyes.benkhoud/)
 [<img src="https://i.ibb.co/gt6ssJz/yes.png" height="40em" align="center" alt="Send Elyes an email" title="Send Elyes an email"/>](elyesbenkhoud377@gmail.com)
-## 🌙 I'm a night 🦉:
+## 🌙 I'm 24 Hours 🦉 In Front Of 🖥:
 
 ```text
 
 🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░
 🌆 Daytime    14  commits    ████░░░░░░░░░░░░░░░░░░░░
-🌃 Evening    18 commits     █████░░░░░░░░░░░░░░░░░░░
-🌙 Night      48 commits     ██████████████░░░░░░░░░░
+🌃 Evening    14 commits     █████░░░░░░░░░░░░░░░░░░░
+🌙 Night      14 commits     ██████████████░░░░░░░░░░
 
 ```
 
