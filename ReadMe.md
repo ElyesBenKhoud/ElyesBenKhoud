@@ -16,22 +16,21 @@
 -->
 ## 📊 𝙼𝚢 GitHub Stats:
 <!--START_SECTION:stats-->
-<a href="https://github.com/ElyesBenKhoud">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenKhoud&langs_count=8&theme=radical" />
-</a>
+<!-- <a href="https://github.com/ElyesBenKhoud"> -->
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenKhoud&langs_count=8&theme=radical" /> -->
+<!-- </a>
 <a href="https://github.com/ElyesBenKhoud">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyesBenKhoud&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical" alt="My github stats" />
-</a> 
+</a>  -->
 
-<br >
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElyesBenkhoud" alt="ElyesBenkhoud" /></a> </p>
 
 <div align="center">
 <details>
 
 <summary>
-  Github Stats
+  📊 𝙼𝚢 GitHub Stats
 </summary>
 
 <br >
@@ -49,7 +48,7 @@
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Elyes on LinkedIn" title="Follow Elyes on LinkedIn"/>](https://www.linkedin.com/in/mohamed-elyes-ben-khoud-738321216/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Elyes on Instagram" title="Follow Elyes on Instagram"/>](https://www.instagram.com/elyes.benkhoud/)
-[<img src="https://www.gmail.com" height="40em" align="center" alt="Elyesbenkhoud377@gmail.com" title="Send Elyes an email"/>](elyesbenkhoud377@gmail.com)
+
 ## 🌙 I'm 24 Hours 🦉 In Front Of 🖥:
 
 ```text
@@ -75,7 +74,7 @@
 <div align="center">
 <h3> want to connect?  </h3> 
 
-[![Linkedin: ElyesBenkhoud](https://img.shields.io/badge/-houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ElyesBenkhoud/)](https://www.linkedin.com/in/mohamed-elyes-ben-khoud-738321216/)
+[![Linkedin: ElyesBenkhoud](https://img.shields.io/badge/-Elyesbenkhoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ElyesBenkhoud/)](https://www.linkedin.com/in/mohamed-elyes-ben-khoud-738321216/)
 [![GitHub ElyesBenkhoud](https://img.shields.io/github/followers/ElyesBenKhoud?label=follow&style=social)](https://github.com/ElyesBenKhoud)
 
 </div>
