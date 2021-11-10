@@ -16,17 +16,17 @@
 -->
 ## 📊 𝙼𝚢 GitHub Stats:
 <!--START_SECTION:stats-->
-<!-- <a href="https://github.com/ElyesBenKhoud"> -->
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenKhoud&langs_count=8&theme=radical" /> -->
-<!-- </a>
+<a href="https://github.com/ElyesBenKhoud"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenKhoud&langs_count=8&theme=radical" /> 
+ </a>
 <a href="https://github.com/ElyesBenKhoud">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyesBenKhoud&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=radical" alt="My github stats" />
-</a>  -->
+</a> 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElyesBenkhoud" alt="ElyesBenkhoud" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElyesBenkhoud" alt="ElyesBenkhoud" /></a> </p> -->
 
-<div align="center">
+<!-- <div align="center">
 <details>
 
 <summary>
@@ -35,12 +35,12 @@
 
 <br >
 
-  ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&count_private=true&theme=blue-green&hide=contribs,prs)
+  ![Elyes's github stats](https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&count_private=true&theme=blue-green&hide=contribs,prs)
 
-  ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenkhoud&theme=blue-green)
+  ![Elyes's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenkhoud&theme=blue-green)
 
 </details>
-</div>
+</div> -->
 <!--END_SECTION:stats-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
