@@ -43,6 +43,7 @@
  </p>
 </div>
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+linkedIn & Instagram
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Elyes on LinkedIn" title="Follow Elyes on LinkedIn"/>](https://www.linkedin.com/in/mohamed-elyes-ben-khoud-738321216/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Elyes on Instagram" title="Follow Elyes on Instagram"/>](https://www.instagram.com/elyes.benkhoud/)
 
