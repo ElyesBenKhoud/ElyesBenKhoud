@@ -34,5 +34,13 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Elyes on LinkedIn" title="Follow Elyes on LinkedIn"/>](https://www.linkedin.com/in/mohamed-elyes-ben-khoud-738321216/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Elyes on Instagram" title="Follow Elyes on Instagram"/>](https://www.instagram.com/elyes.benkhoud/)
 
+## 📊 𝙼𝚢 GitHub Stats:
+
+<!--START_SECTION:stats-->
+
+![Elyes's github stats](https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&count_private=true&theme=blue-green&hide=contribs,prs)
+
+![Elyes's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenkhoud&theme=blue-green)
 <img src="https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&show_icons=true&count_private=true" alt="ElyesBenkhoud" />
+
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=ElyesBenkhoud.ElyesBenkhoud" alt="visitors"></p>
