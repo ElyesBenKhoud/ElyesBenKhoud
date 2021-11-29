@@ -25,6 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expressjs/expressjs-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 </p>
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
@@ -36,11 +37,6 @@
 
 ## 📊 𝙼𝚢 GitHub Stats:
 
-<!--START_SECTION:stats-->
-
-![Elyes's github stats](https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&count_private=true&theme=blue-green&hide=contribs,prs)
-
-![Elyes's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesBenkhoud&theme=blue-green)
 <img src="https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&show_icons=true&count_private=true" alt="ElyesBenkhoud" />
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=ElyesBenkhoud.ElyesBenkhoud" alt="visitors"></p>
