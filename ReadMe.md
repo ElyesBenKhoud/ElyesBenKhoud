@@ -1,11 +1,11 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/mohamedelyes-benkhoud/">Mohamed Elyes Ben Khoud</a></h2>
-<p>I'm Full-stack Web Developer </p>
+<p>  <strong> I'm Full-stack Web Developer </strong></p>
 
 <p>Anyway, thanks for visiting my Github profile!</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://nextjs.org">NexxtJs</a>.</li>
+<li>🔭 I’m currently working on <a href="https://nextjs.org">NextJs</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ElyesBenkhoud">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://medium.com/@ElyesBenKhoud">my blog</a>.</li>
