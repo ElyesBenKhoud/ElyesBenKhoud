@@ -10,7 +10,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ElyesBenkhoud">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://medium.com/@ElyesBenKhoud">my blog</a>.</li>
 <li>💬 Ping me about <strong>react,react Native , nodejs expressjs , MongoDb , Javscript , typescript </strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/14_d_BP-r7oYgh73m2LZtb2J3RKh3O2aR/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/19l227zVo5pYrM1Lbg41QTra0iGchn5bb/view?usp=sharing">resume</a>.</li>
 </ul>
 
 ### Languages and Tools:
