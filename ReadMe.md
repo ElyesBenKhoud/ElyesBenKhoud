@@ -3,7 +3,6 @@
 
 <p>Thanks for visiting my Github profile!</p>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-<br/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://nextjs.org">NextJs</a>.</li>
@@ -11,7 +10,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ElyesBenkhoud">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://medium.com/@ElyesBenKhoud">my blog</a>.</li>
 <li>💬 Ping me about <strong>react,react Native , nodejs expressjs , MongoDb , Javscript , typescript </strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/19l227zVo5pYrM1Lbg41QTra0iGchn5bb/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1dIx5cZvVow62k7Xhr-54lUiS1mi2a-aW/view?usp=sharing">resume</a>.</li>
 </ul>
 
 ### Languages and Tools:
