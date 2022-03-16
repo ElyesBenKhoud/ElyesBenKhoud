@@ -2,7 +2,7 @@
 <p>  <strong> I'm Full-stack Web Developer </strong></p>
 
 <p>Thanks for visiting my Github profile!</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 <br/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
