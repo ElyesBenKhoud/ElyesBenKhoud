@@ -1,8 +1,9 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/mohamedelyes-benkhoud/">Mohamed Elyes Ben Khoud</a></h2>
 <p>  <strong> I'm Full-stack Web Developer </strong></p>
 
-<p>Anyway, thanks for visiting my Github profile!</p>
+<p>Thanks for visiting my Github profile!</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://nextjs.org">NextJs</a>.</li>
@@ -21,7 +22,6 @@
 <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>
 <a href="https://reactnative.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
-<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/> </a>
 <a href="https://angular.io"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angularjs" width="35" height="35"/> </a>
 <a href="https://babeljs.io/"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="35" height="35"/> </a>
 <a href="https://getbootstrap.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a>
