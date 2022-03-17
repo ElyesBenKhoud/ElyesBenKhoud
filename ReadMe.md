@@ -3,17 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElyesBenkhoud&label=Profile%20views&color=ff7421&style=flat" alt="ElyesBenkhoud GitHub profile views" /> </p>
 
-<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://nextjs.org">NextJs</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/ElyesBenkhoud">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://medium.com/@ElyesBenKhoud">my blog</a>.</li>
-<li>💬 Ping me about <strong>react,react Native , nodejs expressjs , MongoDb , Javscript , typescript </strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1dIx5cZvVow62k7Xhr-54lUiS1mi2a-aW/view?usp=sharing">resume</a>.</li>
-</ul>
-
 ### Languages and Tools:
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
@@ -22,14 +11,14 @@
 <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>
 <a href="https://reactnative.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
-<a href="https://angular.io"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angularjs" width="35" height="35"/> </a>
+
 <a href="https://babeljs.io/"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="35" height="35"/> </a>
 <a href="https://getbootstrap.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a>  
  <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a>
 <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>
-<a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>
+
 <a href="https://mochajs.org"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="35" height="35"/> </a>
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a>
 <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
@@ -53,4 +42,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&show_icons=true&count_private=true" alt="ElyesBenkhoud" />
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=ElyesBenkhoud.ElyesBenkhoud" alt="visitors"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElyesBenkhoud&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="ElyesBenkhoud" /></p>
+
+<br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="ElyesBenkhoud" /></p>
+
+<br />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElyesBenkhoud&theme=dark" alt="ElyesBenkhoud" /></p>
