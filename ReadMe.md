@@ -23,7 +23,7 @@
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a>
 <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> </a>
-<a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/> </a>
+<a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
 <a href="https://www.heroku.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="35" height="35"/> </a>
 
 <a href="https://redux.js.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/> </a>
@@ -39,8 +39,6 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Elyes on Instagram" title="Follow Elyes on Instagram"/>](https://www.instagram.com/elyes.benkhoud/)
 
 ## 📊 𝙼𝚢 GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&show_icons=true&count_private=true" alt="ElyesBenkhoud" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElyesBenkhoud&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="ElyesBenkhoud" /></p>
 
