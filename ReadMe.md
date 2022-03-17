@@ -1,7 +1,8 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/mohamedelyes-benkhoud/">Mohamed Elyes Ben Khoud</a></h2>
-<p>  <strong> I'm Full-stack Web Developer </strong></p>
+<h1 align="center">Hi 👋,<a href="https://www.linkedin.com/in/mohamedelyes-benkhoud/"> I'm Mohamed Elyes Ben Khoud</h1></a>
+<h3 align="center">I'm Full-stack Javascript Developer based in Romania</h3>
 
-<p>Thanks for visiting my Github profile!</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ElyesBenkhoud&label=Profile%20views&color=ff7421&style=flat" alt="ElyesBenkhoud GitHub profile views" /> </p>
+
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
