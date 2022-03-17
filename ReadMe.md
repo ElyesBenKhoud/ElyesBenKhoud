@@ -11,7 +11,6 @@
 <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a>
 <a href="https://reactnative.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
-
 <a href="https://babeljs.io/"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="35" height="35"/> </a>
 <a href="https://getbootstrap.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a>  
@@ -39,11 +38,6 @@
 ## 📊 𝙼𝚢 GitHub Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElyesBenkhoud&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="ElyesBenkhoud" /></p>
-
-<br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyesBenkhoud&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="ElyesBenkhoud" /></p>
-
 <br />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElyesBenkhoud&theme=dark" alt="ElyesBenkhoud" /></p>
