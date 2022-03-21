@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,<a href="https://www.linkedin.com/in/mohamedelyes-benkhoud/"> I'm Mohamed Elyes Ben Khoud</h1></a>
 <h3 align="center">I'm Full-stack Javascript Developer based in Romania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ElyesBenkhoud&label=Profile%20views&color=ff7421&style=flat" alt="ElyesBenkhoud GitHub profile views" /> </p>
-
 ### Languages and Tools:
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
