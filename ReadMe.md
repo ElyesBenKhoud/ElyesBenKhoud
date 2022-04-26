@@ -1,4 +1,4 @@
-# Hi 👋 My name is Mohamed Elyes Ben khoud
+<!-- # Hi 👋 My name is Mohamed Elyes Ben khoud
 
 ## Full stack Developer ()
 
@@ -36,7 +36,55 @@
                     <a href="https://www.linkedin.com/in//mohamedelyes-benkhoud/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                     <a href="http://www.medium.com/@ElyesBenKhoud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
                     <a href="https://www.stackoverflow.com/users/16297251/elyes-ben-khoud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-                    <a href="http://www.github.com/ElyesBenKhoud"><img src="https://github-readme-stats.vercel.app/api?username=ElyesBenKhoud&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ElyesBenKhoud's GitHub stats" /></a><a
+                    <a
                     href="http://www.github.com/ElyesBenKhoud"><img
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ElyesBenKhoud&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                    href="http://www.github.com/ElyesBenKhoud"><img src="https://activity-graph.herokuapp.com/graph?username=ElyesBenKhoud&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                    href="http://www.github.com/ElyesBenKhoud"><img src="https://activity-graph.herokuapp.com/graph?username=ElyesBenKhoud&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+
+  <h1 align="center"> Hey 👋🏽, I'm Mohamed Elyes Ben Khoud </h1>
+<h2 align="center">
+    I'm a Frontend developer :
+</h2>
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+
+<!-- - **Responsive ✅**
+- **Intuitive 🤩**
+- **Dynamic 🧬**
+- **Reusable ♻️**
+- **Secure 🛡️**
+- **Load blazing fast 🚀**
+- **SEO Optimized 🔍**
+- **Crafted with pixel-perfect code ✨** -->
+
+<h2 align="center">
+  Here are some technologies I use:
+</h2>
+<p align="center">
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://www.shareicon.net/data/512x512/2016/07/10/119473_development_512x512.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://ildar.pro/wp-content/uploads/2020/12/mongodb-logo.png"></code> &nbsp;&nbsp;
+</p>
+
+<br/>
+
+<p align="center">
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+</p>
+
+<h2 align="center">
+  Contact me:
+</h2>
+
+<br/>
+<p align="center">
+ <a href="mailto:elyesbenkhoud377@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/ElyesBenkhoud"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mohamedelyes-benkhoud/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+</p>
+<a href="http://www.github.com/ElyesBenKhoud"><img src="https://github-readme-stats.vercel.app/api?username=ElyesBenKhoud&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ElyesBenKhoud's GitHub stats" /></a>
