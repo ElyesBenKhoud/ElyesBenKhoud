@@ -98,4 +98,4 @@
    <a href="https://github.com/ElyesBenkhoud"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/mohamedelyes-benkhoud/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
-<a href="http://www.github.com/ElyesBenKhoud"><img src="https://github-readme-stats.vercel.app/api?username=ElyesBenKhoud&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ElyesBenKhoud's GitHub stats" /></a>
+<a align="center" href="http://www.github.com/ElyesBenKhoud"><img src="https://github-readme-stats.vercel.app/api?username=ElyesBenKhoud&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ElyesBenKhoud's GitHub stats" /></a>
