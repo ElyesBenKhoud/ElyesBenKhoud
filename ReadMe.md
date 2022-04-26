@@ -56,7 +56,7 @@
 - **SEO Optimized 🔍**
 - **Crafted with pixel-perfect code ✨** -->
 
-<h2 align="center">
+<h2 align="left">
   Here are some technologies I use:
 </h2>
 <p align="center">
