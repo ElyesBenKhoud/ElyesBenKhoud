@@ -43,9 +43,10 @@
 
   <h1 align="center"> Hey 👋🏽, I'm Mohamed Elyes Ben Khoud </h1>
 <h2 align="center">
-    I'm a Frontend developer :
+    I'm a Frontend developer at :
 </h2>
-<img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+
+**Thinslices Romania**
 
 <!-- - **Responsive ✅**
 - **Intuitive 🤩**
