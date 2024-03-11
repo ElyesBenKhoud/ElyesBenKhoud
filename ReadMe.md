@@ -43,7 +43,7 @@
 
   <h1 align="center"> Hey 👋🏽, I'm Mohamed Elyes Ben Khoud </h1>
 <h2 align="center">
-    I'm a Frontend developer at Thinslices Romania:
+    I'm a Software developer based in Romania:
 </h2>
 
 <!-- - **Responsive ✅**
