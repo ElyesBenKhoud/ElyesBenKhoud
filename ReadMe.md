@@ -46,6 +46,10 @@
     I'm a Software developer based in Romania:
 </h2>
 
+<h4 align="center">
+Highly skilled Software Engineer with over 4 years of experience in full-stack web development and a proven track record of delivering high-quality, scalable, and robust software solutions. Seeking to leverage my expertise in system architecture to contribute to innovative projects that drive business growth and improve user experiences at Tech Co.
+</h3>
+
 <!-- - **Responsive ✅**
 - **Intuitive 🤩**
 - **Dynamic 🧬**
@@ -59,7 +63,6 @@
   Here are some technologies I use:
 </h2> -->
 
-**Technologies used 🔍**
 
 <p align="center">
 <code><img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
