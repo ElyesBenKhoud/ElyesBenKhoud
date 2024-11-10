@@ -47,7 +47,7 @@
 </h2>
 
 <h4 align="center">
-Highly skilled Software Engineer with over 4 years of experience in full-stack web development and a proven track record of delivering high-quality, scalable, and robust software solutions. Seeking to leverage my expertise in system architecture to contribute to innovative projects that drive business growth and improve user experiences at Tech Co.
+I'm a web developer based in Cluj-napoca specialize in Frontend engineering, focusing on building high quality web experiences.
 </h3>
 
 <!-- - **Responsive ✅**
